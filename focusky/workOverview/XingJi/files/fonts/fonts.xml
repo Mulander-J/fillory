@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+  <fonts>
+    <font name="思源黑体" className="FskyFont_syht" url="./files/fonts/font-0-0-201991622205780.swf" ttfurl="./files/fonts/font-0-0-201991622205780.ttf"/>
+    <font name="思源黑体" className="FskyFont_syht_Bold" url="./files/fonts/font-0-1-201991622212518.swf" ttfurl="./files/fonts/font-0-1-201991622212518.ttf"/>
+    <font name="思源黑体" className="FskyFont_syht_Italic" url="./files/fonts/font-0-2-201991622218500.swf" ttfurl="./files/fonts/font-0-2-201991622218500.ttf"/>
+    <font name="思源黑体" className="FskyFont_syht_Bold_Italic" url="./files/fonts/font-0-3-2019916222114515.swf" ttfurl="./files/fonts/font-0-3-2019916222114515.ttf"/>
+    <font name="Webding" className="" url="./files/fonts/font-1-0-2019916222120494.swf" ttfurl="./files/fonts/font-1-0-2019916222120494.ttf"/>
+    <font name="Times New Roman" className="FskyFont_TIMES" url="./files/fonts/font-2-0-2019916222120573.swf" ttfurl="./files/fonts/font-2-0-2019916222120573.ttf"/>
+    <font name="Times New Roman" className="FskyFont_TIMESBD" url="./files/fonts/font-2-1-2019916222120635.swf" ttfurl="./files/fonts/font-2-1-2019916222120635.ttf"/>
+    <font name="Times New Roman" className="FskyFont_TIMESBI" url="./files/fonts/font-2-2-2019916222120682.swf" ttfurl="./files/fonts/font-2-2-2019916222120682.ttf"/>
+    <font name="Times New Roman" className="FskyFont_TIMESI" url="./files/fonts/font-2-3-2019916222120744.swf" ttfurl="./files/fonts/font-2-3-2019916222120744.ttf"/>
+    <font name="FontAwesome" className="" url="./files/fonts/font-3-0-2019916222120807.swf" ttfurl="./files/fonts/font-3-0-2019916222120807.ttf"/>
+  </fonts>
+</data>
